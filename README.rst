@@ -12,6 +12,11 @@ framework compatible with PHP4 and PHP5.
 **ci_skeleton** is a set of files ready to be used as a skeleton for
   your *CodeIgniter* applications.
 
+Version used for this skeleton is: **2.0.2**.
+
+You can check the version of CI taking a look at
+*system/core/CodeIgniter.php* file.
+
 -----------------
 Features
 -----------------

@@ -9,8 +9,7 @@ Description
 `CodeIgniter (CI) <http://codeigniter.com>`_ is a very well-know PHP
 framework compatible with PHP4 and PHP5.
 
-**ci_skeleton** is a set of files ready to be used as a skeleton for
-  your *CodeIgniter* applications.
+**ci_skeleton** is a set of files ready to be used as a skeleton for your *CodeIgniter* applications.
 
 Version used for this skeleton is: **2.0.2**.
 

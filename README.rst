@@ -30,6 +30,7 @@ Usage
 * Clone this repo.
 * Copy the directory to your *DocumentRoot*
 * Delete the *.git* directory inside *ci_skeleton*
+* Delete the *README.rst* file inside *ci_skeleton*
 * Edit the *.htaccess* file and replace *ci_skeleton* for the name of
   your application.
 * Start to develop!
